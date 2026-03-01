@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhaytiwari3415@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhaytiwariworkspace@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tiwarii/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/abhaytiwariii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_abhaytiwariii/)
@@ -89,7 +89,7 @@ Handled hosting, domain mapping, and live production release.
 
 # 📬 Get In Touch
 
-📧 Email: abhaytiwari3415@gmail.com  
+📧 Email: abhaytiwariworkspace@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/abhay-tiwarii/  
 💻 GitHub: https://github.com/abhaytiwariii  
 📸 Instagram: https://www.instagram.com/_abhaytiwariii/  
